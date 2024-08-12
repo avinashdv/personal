@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://avinashdv.github.io/personal/",
   "scripts": {
     "dev": "next dev",
     "predeploy": "npm run build",
