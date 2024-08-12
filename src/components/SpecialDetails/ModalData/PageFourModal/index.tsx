@@ -89,14 +89,14 @@ const PageFourModal: React.FC<Props> = ({ id }) => {
       {id === 1 && (
         <CommonDesign
           title="Challenging Env...."
-          img="/images/quote.png"
+          img="./images/quote.png"
           text="Always!"
         />
       )}
       {id === 2 && (
         <CommonDesign
           title="Building for better world...."
-          img="/images/blind-help.webp"
+          img="./images/blind-help.webp"
           text="Help the disabled with tech!"
         />
       )}
