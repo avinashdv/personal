@@ -103,8 +103,8 @@ const PageOneModalTwo = () => {
           mt="4"
           fontSize={{ base: "xs", xl: "xl" }}
         >
-          Learn't the fundamentals, put in the hours, created projects, landed
-          myself with a{" "}
+          {"Learn't"} the fundamentals, put in the hours, created projects,
+          landed myself with a{" "}
           <Text as="span" bgColor="black" color="white" px="2">
             frontend job
           </Text>{" "}

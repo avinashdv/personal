@@ -178,9 +178,9 @@ const PageTwoModal = () => {
               </ListItem>
               <ListItem fontSize={{ base: "xs", xl: "md" }}>
                 {" "}
-                Implemented responsive design for Kohler's e-commerce platform,
-                making it compatible across a variety of devices, leading to 40%
-                increase in mobile traffic
+                Implemented responsive design for {"Kohler's"} e-commerce
+                platform, making it compatible across a variety of devices,
+                leading to 40% increase in mobile traffic
               </ListItem>
               <ListItem fontSize={{ base: "xs", xl: "md" }}>
                 {" "}
