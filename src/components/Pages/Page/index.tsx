@@ -94,7 +94,7 @@ const Page: React.FC<Props> = ({
     <Box width="full" height="full" position={"relative"}>
       {/* Big BG IMG */}
       <Image
-        src={`/images/${imgLink}`}
+        src={`./images/${imgLink}`}
         fill={true}
         id="bgImgOne"
         objectFit="cover"
